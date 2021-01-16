@@ -2,7 +2,6 @@ package org.oop;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
 import static org.oop.Point.direction;
 import static org.oop.Point.distance;
 

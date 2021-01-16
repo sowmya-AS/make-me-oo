@@ -34,3 +34,4 @@ The use of getter and setter methods could possibly result in the breaking of en
 The Point class has only properties associated with it and DistanceAndDirectionCalculator has only behaviour associated with it.
 Presence of unused setters.
 The tests written do not follow the AAA format.
+Logic duplication in the methods, distance and direction to obtain x and y distance.

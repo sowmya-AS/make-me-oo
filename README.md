@@ -33,3 +33,4 @@ Even though classes have been used it does not follow object-oriented principles
 The use of getter and setter methods could possibly result in the breaking of encapsulation.
 The Point class has only properties associated with it and DistanceAndDirectionCalculator has only behaviour associated with it.
 Presence of unused setters.
+The tests written do not follow the AAA format.

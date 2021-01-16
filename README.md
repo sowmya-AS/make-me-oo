@@ -26,3 +26,10 @@ He thought it'll be a good idea to convert this to Object Oriented Programming. 
 However, his trainer told him that what he did is not Object Oriented programming and asked Shivam to try again. 
 - Try to articulate problems with Shivam's OOP solution. (Write it somewhere and share it with your trainer)
 - Fork the project and fix the design related problem with Shivam's OOP solution. Share that with your trainer too.
+
+Problems with Shivam's OOP solution -
+
+Even though classes have been used it does not follow object-oriented principles and mostly procedural.
+The use of getter and setter methods could possibly result in the breaking of encapsulation.
+The Point class has only properties associated with it and DistanceAndDirectionCalculator has only behaviour associated with it.
+Presence of unused setters.
